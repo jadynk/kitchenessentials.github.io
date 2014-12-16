@@ -31,9 +31,9 @@ nav ul {
 
 nav li { 
 	display: inline;
-	padding-left: 2px;
+	padding-left: 10px;
 }
 
 #container{
-	margin-top: 4%;
+	margin-top: 10px
 }
