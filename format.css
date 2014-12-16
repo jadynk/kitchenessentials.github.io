@@ -38,3 +38,8 @@ nav li {
 #container{
 	margin-top: 80px;
 }
+
+ul{
+	padding: 15px;
+	background-color: #322F2F
+}
