@@ -39,8 +39,8 @@ nav li {
 	margin-top: 80px;
 }
 
-ul{
-	float: center;
-	padding: 15px;
-	background-color: #322F2F
+#container ul{
+		float: center;
+		padding: 15px;
+		background-color: #322F2F
 }
