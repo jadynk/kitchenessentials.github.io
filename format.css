@@ -40,7 +40,13 @@ nav li {
 }
 
 #container ul{
-		float: center;
-		padding: 15px;
-		background-color: #322F2F
+	float: center;
+	padding: 15px;
+	background-color: #322F2F
 }
+
+img{
+	background-color: black;
+	padding: 10px;
+}
+
