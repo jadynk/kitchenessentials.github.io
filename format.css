@@ -36,7 +36,7 @@ nav li {
 }
 
 h1{
-	position: center;
+	text-align: center;
 	padding: 20px;
 	background-color: #171616;
 }
