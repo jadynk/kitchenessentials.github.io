@@ -44,7 +44,12 @@ h1{
 h2{
 	padding: 10px;
 	background-color: #322F2F;
-	width: 200px;
+	
+}
+
+.title2 {
+	padding: 10px;
+	background-color: #322F2F;
 }
 
 #container{
