@@ -13,10 +13,10 @@ p{
 nav {
 	background-color: orange;
 	margin-top: 10px;
+	margin-bottom:10px;
 	position: fixed;
 	top: 0px;
 	width: 100%;
-	height: 50px;
 }
 
 nav a{ 
@@ -32,11 +32,11 @@ nav ul {
 
 nav li { 
 	display: inline;
-	padding-left: 10px;
+	padding-left: 20px;
 }
 
 #container{
-	margin-top: 80px;
+	margin-top: 60px;
 }
 
 #container ul{
