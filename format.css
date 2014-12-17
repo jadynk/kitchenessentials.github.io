@@ -44,13 +44,9 @@ h1{
 h2{
 	padding: 10px;
 	background-color: #322F2F;
-	
+	display:inline-block;
 }
 
-.title2 {
-	padding: 10px;
-	background-color: #322F2F;
-}
 
 #container{
 	margin-top: 60px;
