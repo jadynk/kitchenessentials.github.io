@@ -7,7 +7,9 @@ body{
 p{
 	color: #FF9900;
 	background-color: black;
-	padding: 20px
+	padding: 10px;
+	border-width: 4px;
+	border-color: #716A6A
 }
 
 nav {
