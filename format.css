@@ -31,15 +31,12 @@ nav ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0; 
-	text-align: center;
 }
 
 nav li { 
 	display: inline;
 	padding-left: 20px;
 	color: black;
-	border-style: solid;
-	border-width: 3px;
 }
 
 h1{
@@ -73,5 +70,5 @@ img{
 }
 
 iframe{
-	display: inline-block;
+	display: inline-block
 }
