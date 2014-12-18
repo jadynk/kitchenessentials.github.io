@@ -69,3 +69,6 @@ img{
 	position: center;
 }
 
+iframe{
+	display: inline-block;
+}
